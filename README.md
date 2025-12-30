@@ -1,2 +1,2 @@
 # Ngong-SmartWaste-management-and-reporting-system-
-Smart Waste System 
+Smart Waste System (GIS & Kobo Survey Project)
